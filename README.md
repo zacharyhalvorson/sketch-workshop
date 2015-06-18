@@ -20,7 +20,7 @@ This workshop will be exploratory and hands-on. The goal in mind is to use the t
 
 1. If you dont have Sketch already, go to the [Mac App Store](https://itunes.apple.com/ca/app/sketch-3/id852320343?mt=12) and get the current production version.
 1. Follow along with my demo of the different features of the interface.
-1. Download Sketch Toolbox
+1. Download [Sketch Toolbox](http://sketchtoolbox.com)
 1. Install the following plugins:
     - Sketch Measure
     - Dynamic Button
