@@ -16,10 +16,16 @@ In this workshop we'll be first familiarizing ourselves with the interface. Goin
 - Exporting
 
 ### Now What?
-This workshop will be exploratory and hands-on. There is a goal in mind, but you are encouraged to experiment.
+This workshop will be exploratory and hands-on. The goal in mind is to use the tools and plugins we just learned about to recreate the interface for the iOS app, Canopy. It's a shopping app that displays a curated list of items available on Amazon Prime.
 
 1. If you dont have Sketch already, go to the [Mac App Store](https://itunes.apple.com/ca/app/sketch-3/id852320343?mt=12) and get the current production version.
 1. Follow along with my demo of the different features of the interface.
+1. Download Sketch Toolbox
+1. Install the following plugins:
+    - Sketch Measure
+    - Dynamic Button
+    - Content Generator
+    - Sketch Page Switch
 1. Open a new file from the iOS UI Design template
 
     ![](https://cloudup.com/cwsc4RAHyEQ+)
@@ -46,6 +52,8 @@ This is just a few, but there are dozens of great plugins out there, all searcha
 - [Measure](https://github.com/utom/sketch-measure)
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
 - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
+- [Color Contrast Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser)
+- [Page Switch](https://github.com/mauehara/sketch-page-switch)
 
 ### Assets
 - [Sketch App Sources](http://www.sketchappsources.com) - A repository of various Sketch icon sets, wireframe kits, and whatever kind of graphics you might need.
