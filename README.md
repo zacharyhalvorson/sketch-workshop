@@ -44,6 +44,7 @@ This workshop will be exploratory and hands-on. The goal in mind is to use the t
 - [Sketch Toolbox](http://sketchtoolbox.com), an absolutely essential plugin manager for Sketch.
 - [Sketch Tool](http://bohemiancoding.com/sketch/tool/) is a commandline tool build by Bohemian Coding to do powerful automated batch exporting of pages and slices.
 - [Sketch Beta](http://www.bohemiancoding.com/sketch/beta/) gives you a way to play with the new features they have planned for future releases.
+
 > Use caution with Sketch Beta, any file you open with it will no longer work with the production version of Sketch.
 
 ### Plugins
