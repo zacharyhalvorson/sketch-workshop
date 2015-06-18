@@ -8,30 +8,31 @@ Sketch is a simple, focussed, interface design tool. It's interface is straight-
 ## Getting Started
 This workshop will have to parts. First, we'll be familiarizing ourselves with the interface. Then we'll work on reproducing the interface for an existing iOS shopping app. If you dont have Sketch already, go to the [Mac App Store](https://itunes.apple.com/ca/app/sketch-3/id852320343?mt=12) and get the current production version.
 
-### Introduction To The interface
-- The toolbars
-- Understanding how vertices, layers and groups work
-- The different editing modes
-- Navigating and designing with the keyboard
-- Layer styles, text styles, and symbols
-- Plugins
-- Exporting
+1. ### Introduction To The interface
 
-### Let's Make Some Squares
+    - The toolbars
+    - Understanding how vertices, layers and groups work
+    - The different editing modes
+    - Navigating and designing with the keyboard
+    - Layer styles, text styles, and symbols
+    - Plugins
+    - Exporting
+
+1. ### Let's Make Some Squares
 This workshop will be exploratory and hands-on. The goal in mind is to use the tools and plugins we just learned about to recreate the interface for the iOS app, Canopy. It's a shopping app that displays a curated list of items available on Amazon Prime.
 
-1. Follow along with my demo of the different features of the interface.
-1. Download [Sketch Toolbox](http://sketchtoolbox.com)
-1. Use Sketch Toolbox to install the following plugins:
-    - Sketch Measure
-    - Dynamic Button
-    - Content Generator
-    - Sketch Page Switch
-1. Open a new file from the iOS UI Design template
+    1. Follow along with my demo of the different features of the interface.
+    1. Download [Sketch Toolbox](http://sketchtoolbox.com)
+    1. Use Sketch Toolbox to install the following plugins:
+        - Sketch Measure
+        - Dynamic Button
+        - Content Generator
+        - Sketch Page Switch
+    1. Open a new file from the iOS UI Design template
 
-    ![](https://cloudup.com/cwsc4RAHyEQ+)
-1. When we start building screens copy and paste the various images from the `/Canopy Screenshots/` directory in this workshop's repo into your Sketch file.
-1. Follow along while I build out the first home screen and then continue work on the other screens at your own pace. We'll stop occasionally to demo plugins and tips.
+        ![](https://cloudup.com/cwsc4RAHyEQ+)
+    1. When we start building screens copy and paste the various images from the `/Canopy Screenshots/` directory in this workshop's repo into your Sketch file.
+    1. Follow along while I build out the first home screen and then continue work on the other screens at your own pace. We'll stop occasionally to demo plugins and tips.
 
 ## Resources
 
