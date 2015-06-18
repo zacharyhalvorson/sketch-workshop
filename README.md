@@ -37,6 +37,9 @@ This workshop will be exploratory and hands-on. The goal in mind is to use the t
 
 ## Resources
 
+### Reference
+- [Keyboard Shortcuts](http://sketchshortcuts.com)
+
 ### Tutorials
 - [Design + Code](https://designcode.io) is a book and online course teaching how to design using Sketch and Swift in Xcode. It outlines the thinking behind the use of Sketch and how it might fit into a more prototype-driven design process.
 - [Sketch Casts](http://www.sketchcasts.net) is a great series of various workflows and walkthroughs showing the various features and things you can do with Sketch.
