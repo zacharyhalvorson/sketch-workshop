@@ -5,7 +5,7 @@
 ## Why Sketch?
 Sketch is a simple, focussed, interface design tool. It's interface is straight-forward, and in-line with OSX application conventions. It doesnt have more settings than you can remember, it works exclusively in vector, the only units are in pixels, it's tools work the same as CSS, and it's intuitive to use.
 
-## Getting Started
+## Let's Get To Work
 This workshop will have to parts. First, we'll be familiarizing ourselves with the interface. Then we'll work on reproducing the interface for an existing iOS shopping app. If you dont have Sketch already, go to the [Mac App Store](https://itunes.apple.com/ca/app/sketch-3/id852320343?mt=12) and get the current production version.
 
 1. ### Introduction To The interface
