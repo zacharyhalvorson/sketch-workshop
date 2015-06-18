@@ -29,7 +29,6 @@ This workshop will be exploratory and hands-on. The goal in mind is to use the t
 1. Open a new file from the iOS UI Design template
 
     ![](https://cloudup.com/cwsc4RAHyEQ+)
-
 1. When we start building screens copy and paste the various images from the `/Canopy Screenshots/` directory in this workshop's repo into your Sketch file.
 1. Follow along while I build out the first home screen and then continue work on the other screens at your own pace.
 
