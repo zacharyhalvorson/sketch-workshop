@@ -17,6 +17,7 @@ In this workshop we'll be first familiarizing ourselves with the interface. Goin
 
 ### Now What?
 This workshop will be exploratory and hands-on. There is a goal in mind, but you are encouraged to experiment.
+
 1. If you dont have Sketch already, go to the [Mac App Store](https://itunes.apple.com/ca/app/sketch-3/id852320343?mt=12) and get the current production version.
 1. Follow along with my demo of the different features of the interface.
 1. Open a new file from the iOS UI Design template
