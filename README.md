@@ -2,6 +2,8 @@
 
 # Sketch Workshop
 
+![](https://cloudup.com/c3HGmfPo_tG+)
+
 ## Why Sketch?
 Sketch is a simple, focussed, interface design tool. It's interface is straight-forward, and in-line with OSX application conventions. It doesnt have more settings than you can remember, it works exclusively in vector, the only units are in pixels, it's tools work the same as CSS, and it's intuitive to use.
 
