@@ -1,4 +1,4 @@
-![](https://cloudup.com/chWtBTMhdZo+)
+![](https://cloudup.com/cAV-amb4ufl+)
 
 # Sketch Workshop
 
