@@ -2,8 +2,6 @@
 
 # Sketch Workshop
 
-![](https://cloudup.com/c3HGmfPo_tG+)
-
 ## Why Sketch?
 Sketch is a simple, focussed, interface design tool. It's interface is straight-forward, and in-line with OSX application conventions. It doesnt have more settings than you can remember, it works exclusively in vector, the only units are in pixels, it's tools work the same as CSS, and it's intuitive to use.
 
@@ -67,3 +65,4 @@ This is just a few, but there are dozens of great plugins out there, all searcha
 - [Sketch App Sources](http://www.sketchappsources.com) - A repository of various Sketch icon sets, wireframe kits, and whatever kind of graphics you might need.
 - [Mobify Sketch Assets](https://www.dropbox.com/sh/3trhv3z494jtzof/AAC-CqiOiqsgxiOI7gwtcrdOa?dl=0) - This could use some updating but I've kept a collection for in-house use.
 - [Sketch Design Facebook Group](https://www.facebook.com/groups/sketchdesignio/)
+- [Kitten + Chicks](https://cloudup.com/c3HGmfPo_tG+)
